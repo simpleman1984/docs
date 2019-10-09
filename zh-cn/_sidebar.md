@@ -1,0 +1,7 @@
+* [首页](/)
+* [收藏、分享](zh-cn/favorite)
+* [报名、学习进度](zh-cn/learnprogress)
+* [排序相关](zh-cn/sort)
+* [评论相关](zh-cn/comment)
+* [重建索引](zh-cn/buildindex)
+* [转码相关](zh-cn/filetransfer)
